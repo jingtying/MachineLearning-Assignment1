@@ -1,0 +1,69 @@
+<html lang="en">
+ 
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Machine Learning Assignment 1</title>
+
+    <link href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.bootcss.com/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <link href="main.css" rel="stylesheet">
+
+
+    <!-- Load the latest version of TensorFlow.js -->
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/mobilenet"></script>
+    <script src="https://unpkg.com/@tensorflow-models/knn-classifier"></script>
+  </head>
+  
+  <body>
+
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="#">Machine Learning Assignment 1</a>
+        </div>
+    </nav>
+    <div class="container">
+        <div id="content" style="margin-top:2em"></div>
+    </div>
+    
+    <h2>Image Classifier</h2>
+
+    <div id="console"></div>
+
+    <video autoplay playsinline muted id="webcam" width="224" height="224"></video>
+    <br/>
+
+    <p>
+
+        This web application will require you to turn on your webcam. <br/>
+        Show different items in front of your webcam and separate each item into 3 categories. <br/>
+        Click "No Action" button if you do not want to add an item to these 3 categories. <br/>
+    </p>
+
+    <button id="class-a">Add A</button>
+    <button id="class-b">Add B</button>
+    <button id="class-c">Add C</button>
+    <button id="class-d">No Action</button>
+    
+    <!-- Load index.js after the content of the page -->
+    <script src="index.js"></script>
+    
+    <br/>
+    
+    <p>Thank you for trying! Have Fun!</p>
+
+  </body>
+
+  <footer>
+   
+    <p>Created by JingTying Yap</p>    
+  
+  </footer>
+
+</html>
