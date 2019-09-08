@@ -28,34 +28,34 @@ ___________________________
 1) Your First Machine Learning Application https://github.com/mtobeiyf/keras-flask-deploy-webapp
 
 2) Reading Assignment (Programming Fundamentals)
-Learn Python 
-Read Pages 1-56 of "Learn Python the Hard Way" https://github.com/GeNikolja/lp3thw/blob/master/Learn%20Python%203%20The%20Hard%20Way%20(en).pdf  
+    Learn Python 
+    Read Pages 1-56 of "Learn Python the Hard Way" https://github.com/GeNikolja/lp3thw/blob/master/Learn%20Python%203%20The%20Hard%20Way%20(en).pdf  
 
-Review these math topics by reading these cheat sheets and video lessons
+    Review these math topics by reading these cheat sheets and video lessons
 
-Linear Algebra 
-https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 
-https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
+    Linear Algebra 
+    https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab 
+    https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf 
 
-Calculus
-https://www.youtube.com/watch?v=WUvTyaaNkzM&t=1s 
-http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Calculus_Notes_Cheat_Sheet_2017.pdf?fbclid=IwAR3egBMCUlIYPlN1Sq2zJJMlws5-1DUgIFjPbqfs5lYR7mx2yp9TPF84uQI 
+    Calculus
+    https://www.youtube.com/watch?v=WUvTyaaNkzM&t=1s 
+    http://www.toomey.org/tutor/harolds_cheat_sheets/Harolds_Calculus_Notes_Cheat_Sheet_2017.pdf?fbclid=IwAR3egBMCUlIYPlN1Sq2zJJMlws5-1DUgIFjPbqfs5lYR7mx2yp9TPF84uQI 
 
-Probability Theory 
-https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf 
-https://www.youtube.com/watch?v=PrkiRVcrxOs 
+    Probability Theory 
+    https://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf 
+    https://www.youtube.com/watch?v=PrkiRVcrxOs 
 
-Statistics
-https://www.youtube.com/watch?v=MdHtK7CWpCQ 
+    Statistics
+    https://www.youtube.com/watch?v=MdHtK7CWpCQ 
 
-Mathematics of Machine Learning 
-https://www.youtube.com/watch?v=8onB7rPG4Pk 
+    Mathematics of Machine Learning 
+    https://www.youtube.com/watch?v=8onB7rPG4Pk 
 
-Convolutional Networks for image classification (you'll need this for your homework!)
-https://www.youtube.com/watch?v=FTr3n7uBIuE&t=906s 
-https://www.youtube.com/watch?v=cAICT4Al5Ow 
+    Convolutional Networks for image classification (you'll need this for your homework!)
+    https://www.youtube.com/watch?v=FTr3n7uBIuE&t=906s 
+    https://www.youtube.com/watch?v=cAICT4Al5Ow 
 
 3) How to Learn Machine Learning Fast
-10 Ways to Learn Faster
-https://www.youtube.com/watch?v=hKBZjH7Ot2g
+    10 Ways to Learn Faster
+    https://www.youtube.com/watch?v=hKBZjH7Ot2g
 
